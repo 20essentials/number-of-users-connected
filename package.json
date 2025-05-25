@@ -1,0 +1,17 @@
+{
+  "name": "numberofclients",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "5.1.0",
+    "socket.io": "4.8.1"
+  }
+}
